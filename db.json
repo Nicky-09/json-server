@@ -1,9 +1,52 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "task": [
+    {
+      "id": "10",
+      "title": "task 1",
+      "description": "desc",
+      "extra": {
+        "start_date": "todaydn",
+        "end_date": "todaynb n"
+      }
+    },
+    {
+      "id": "rrr35",
+      "title": "454hf",
+      "description": "3454",
+      "extra": {
+        "start_date": "56",
+        "end_date": "7b"
+      }
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "cars": [
+    {
+      "id": "1",
+      "car_name": "42",
+      "car_details": {
+        "car_number": "333",
+        "car_engine": "43",
+        "car_model": "5"
+      }
+    },
+    {
+      "id": "3r3",
+      "car_name": "4t34t",
+      "car_details": {
+        "car_number": "34t4",
+        "car_engine": "t44t33",
+        "car_model": "4t44"
+      }
+    }
   ],
-  "profile": { "name": "typicode" }
+  "employee": [
+    {
+      "id": "1",
+      "position": "hr",
+      "employee_details": {
+        "name": "harshita",
+        "address": "bangalore"
+      }
+    }
+  ]
 }
